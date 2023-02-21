@@ -32,4 +32,6 @@ Proof
 
 
 LUCID chart created 
+https://lucid.app/lucidchart/53573fae-f409-433b-ac3c-0d0be6f6d65d/edit?invitationId=inv_1a105000-174c-4a92-8ed1-7710ddeee393&page=0_0#
+
 !.[Crudder Logical design].(Logical AWS Diagram.png)
